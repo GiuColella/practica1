@@ -24,9 +24,6 @@ export default function Home() {
             <p>Lista de tareas </p>
             <ListaTareas/>
         </div>
-        <div className="">
-            <p>HOLIS</p>
-        </div>
     </div>
   )
 }

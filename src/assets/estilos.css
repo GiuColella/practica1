@@ -1,40 +1,20 @@
 .box_main{
 
-
 }
 
 .box_contador{
-    border: 2px solid #000;
-    margin-top: 1rem;
-    display:flex;
-    flex-direction: column;
-    align-content: space-around;
-    align-items: center;
-    background-color: rgb(0, 0, 0);
-    color: aliceblue;
-    border-radius: 5rem;
+ 
 }
 
 .box_selector{
-    border: 2px solid #000;
-    margin-top: 1rem;
-    width: 300px;
-    height: 350px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    background-color: aliceblue;
+   
 }
 
 .box_estado{
-    border: 2px solid #000;
-    margin-top: 1rem;
 
 }
 
 .box_tareas{
-    border: 2px solid #000;
-    margin-top: 1rem;
+
 }
+
